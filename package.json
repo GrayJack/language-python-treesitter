@@ -1,0 +1,21 @@
+{
+  "name": "language-python-treesitter",
+  "version": "0.0.0",
+  "description": "Python support for Atom using tree-sitter",
+  "keywords": [
+    "treesitter",
+    "tree-sitter",
+    "language",
+    "grammar",
+    "syntax",
+    "python"
+  ],
+  "repository": "https://github.com/GrayJack/language-python-treesitter",
+  "license": "MIT",
+  "dependencies": {
+    "tree-sitter-python": "0.15.0"
+  },
+  "engines": {
+    "atom": ">=1.40.0 <2.0.0"
+  }
+}
