@@ -117,9 +117,9 @@ scopes:
   class_definition > argument_list > keyword_argument > identifier:nth-child(2),
   ''' : 'entity.other.inherited-class'
 
-  '"class"' : 'keyword.storage.type.class'
-  '"def"' : 'keyword.storage.type.function'
-  '"lambda"' : 'keyword.storage.type.function'
+  '"class"' : 'keyword.storage.class'
+  '"def"' : 'keyword.storage.function'
+  '"lambda"' : 'keyword.storage.function'
 
   '"global"' : 'keyword.storage.modifier.global'
   '"nonlocal"' : 'keyword.storage.modifier.nonlocal'
