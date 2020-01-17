@@ -13,9 +13,9 @@
   "repository": "https://github.com/GrayJack/language-python-treesitter",
   "license": "MIT",
   "dependencies": {
-    "tree-sitter-python": "0.15.0"
+    "tree-sitter-python": "0.16.0"
   },
   "engines": {
-    "atom": ">=1.40.0 <2.0.0"
+    "atom": ">=1.43.0 <2.0.0"
   }
 }
