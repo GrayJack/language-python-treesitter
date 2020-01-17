@@ -1,6 +1,6 @@
 {
   "name": "language-python-treesitter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Python support for Atom using tree-sitter",
   "keywords": [
     "treesitter",
